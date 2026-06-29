@@ -13,7 +13,7 @@
 
 | App | Bundle ID | Version | Architecture | Status |
 |-----|-----------|---------|--------------|--------|
-| Instagram for iOS | `com.burbn.instagram` | **410.1.0** | `arm64` | ✅ Bypassed ([Download](../../releases)) |
+| Instagram for iOS | `com.burbn.instagram` | **410.1.0.36.70** | `arm64` | ✅ Bypassed ([Download](../../releases)) |
 
 > For the **latest Instagram SSL Pinning Bypassed IPA**, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
