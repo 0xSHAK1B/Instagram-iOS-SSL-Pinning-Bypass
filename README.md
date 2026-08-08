@@ -3,19 +3,26 @@
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![ARM64](https://img.shields.io/badge/arm64-Supported-blue?style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/Updated-June_2026-brightgreen?style=for-the-badge)
 
 > **Bypass SSL/TLS certificate pinning in Instagram for iOS** to intercept, capture, and analyze HTTPS network traffic using proxy tools like Burp Suite, mitmproxy, Reqable, or Proxypin. Working as of **2026**.
 
 ---
 
-## Supported Instagram iOS Version
+## Proof of Concept
+
+<img width="1072" height="785" alt="Instagram iOS SSL Pinning Bypass PoC – Intercepted HTTPS Traffic" src="https://github.com/user-attachments/assets/4a8411db-0985-4083-9e06-3ea3ffc546e2" />
+
+---
+
+## Supported Instagram iOS Versions
 
 | App | Bundle ID | Version | Architecture | Status |
 |-----|-----------|---------|--------------|--------|
+| Instagram for iOS | `com.burbn.instagram` | **441.0.0.29.79** | `arm64` | ✅ Bypassed ([Contact Telegram](https://t.me/MUH4MM4DSH4KIB)) |
 | Instagram for iOS | `com.burbn.instagram` | **410.1.0.36.70** | `arm64` | ✅ Bypassed ([Download](../../releases)) |
 
-> For the **latest Instagram SSL Pinning Bypassed IPA**, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
+
+> **v410.1.0.36.70** is available for free in the [Releases](../../releases) section. For the **latest v441.0.0.29.79** or any newer version, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
 ---
 
@@ -43,7 +50,8 @@
 
 ### Step 1: Download the Patched IPA
 
-Download the SSL pinning bypassed Instagram IPA from the [**Releases**](../../releases) section of this repository.
+- **v410.1.0.36.70** — Download from the [**Releases**](../../releases) section (free)
+- **v441.0.0.29.79** — [**Contact me on Telegram**](https://t.me/MUH4MM4DSH4KIB)
 
 ### Step 2: Install the Patched IPA on Your iOS Device
 
@@ -102,6 +110,7 @@ Need a bypass for a **specific Instagram iOS version** or another **iOS app**? I
 | Threads | Android | [**Threads SSL Pinning Bypass**](https://github.com/0xSHAK1B/Threads-SSL-Pinning-Bypass) |
 | Meta Business Suite | Android | [**Meta Business Suite SSL Pinning Bypass**](https://github.com/0xSHAK1B/MetaBusiness-Suite-SSL-Pinning-Bypass) |
 | TikTok | Android | [**TikTok SSL Pinning Bypass**](https://github.com/0xSHAK1B/TikTok-SSL-Pinning-Bypass) |
+| X (Twitter) | Android | [**X (Twitter) SSL Pinning Bypass**](https://github.com/0xSHAK1B/X-Twitter-SSL-Pinning-Bypass) |
 | AliExpress | Android | [**AliExpress SSL Pinning Bypass**](https://github.com/0xSHAK1B/AliExpress-SSL-Pinning-Bypass) |
 
 ---
@@ -111,9 +120,3 @@ Need a bypass for a **specific Instagram iOS version** or another **iOS app**? I
 For the **most up-to-date** SSL pinning bypassed Instagram IPA and support:
 
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
-
----
-
-## Tags
-
-`instagram ios ssl pinning bypass` · `instagram ipa ssl bypass` · `instagram ios ssl bypass 2026` · `instagram iphone certificate pinning bypass` · `instagram ios mitm proxy` · `instagram ios https traffic interception` · `instagram burp suite ios` · `instagram ios https decrypt` · `instagram ios security research` · `instagram ios api reverse engineering` · `instagram ios network traffic capture` · `instagram ios ssl unpinning` · `bypass ssl pinning instagram ios` · `instagram ipa patched` · `instagram mitmproxy ios` · `instagram reqable ios` · `instagram ios penetration testing` · `ios ssl pinning bypass 2026` · `intercept instagram ios traffic` · `instagram ios security audit` · `instagram certificate bypass arm64 ios` · `instagram ios https interception` · `com.burbn.instagram ssl bypass` · `meta instagram ios ssl bypass` · `instagram trollstore ipa` · `instagram sideload ssl bypass` · `instagram ios reverse engineering 2026` · `instagram graphql api ios` · `instagram private api ios`
