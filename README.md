@@ -4,15 +4,15 @@
 
 **Intercept, capture & analyze Instagram HTTPS traffic on iPhone & iPad — 2026 working build**
 
-[![Download IPA](https://img.shields.io/badge/⬇_Download_IPA_(v442.0.0)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](../../releases/latest) &nbsp; [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MUH4MM4DSH4KIB)
+[![Download IPA](https://img.shields.io/badge/⬇_Download_IPA_(v446.0.0.28.66)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](../../releases/latest) &nbsp; [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MUH4MM4DSH4KIB)
 
 ![iOS](https://img.shields.io/badge/iOS_14.0+-000000?style=flat-square&logo=apple&logoColor=white)
 ![ARM64](https://img.shields.io/badge/arm64-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Instagram-v442.0.0.22.64-E4405F?style=flat-square&logo=instagram&logoColor=white)
+![Version](https://img.shields.io/badge/Instagram-v446.0.0.28.66-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
-<img width="590" height="1280" alt="Instagram iOS SSL Pinning Bypass PoC – Traffic Captured" src="https://github.com/user-attachments/assets/46e71e11-e609-45e9-a559-a1cce80af639" />
+<img width="590" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b54a5175-08e1-4bed-8224-c23d201f2b2a" />
 
-*Live capture — Instagram iOS `i.instagram.com` traffic intercepted in cleartext, v442.0.0.22.64.*
+*Live capture — Instagram iOS `i.instagram.com` traffic intercepted in cleartext, v446.0.0.28.66.*
 
 </div>
 
